@@ -1,5 +1,5 @@
 {
-	"/start": "Привет!\nЯ персональный бот Андрея Константинова, iOS разработчика из Москвы. ![andy](https://raw.githubusercontent.com/8ofproject/AndyResumeBot/master/img/andy.jpg) %[Далее](postback:about_andy)",
+	"start": "Привет!\nЯ персональный бот Андрея Константинова, iOS разработчика из Москвы. ![andy](https://raw.githubusercontent.com/8ofproject/AndyResumeBot/master/img/andy.jpg) %[Далее](postback:about_andy)",
     "BOT": "Привет!\nЯ персональный бот Андрея Константинова, iOS разработчика из Москвы. ![andy](https://raw.githubusercontent.com/8ofproject/AndyResumeBot/master/img/andy.jpg) %[Далее](postback:about_andy)",
     "about_andy": "Андрей занимается iOS разработкой.\nЯзыки программирования: Swift, Objective C.\nСтандартный инструментарий Apple, которым он обладает: UIKit, Core-фреймворки (в т.ч. CoreData в чистом виде), Foundation, AutoLayout, Storyboards, XIBs, MapKit, NotificationCenter, Social %[Последние работы](postback:apps) %[Опыт](postback:experience) %[Образование](postback:education)",
     "apps" : "iOS приложения, в которых участвовал Андрей за последний год: %[Qlean](postback:qlean_app) %[Shelly](postback:shelly_app) %[Столото](postback:stoloto_app) %[2ch browser](postback:dvach_browser) %[Список проектов за год](http://8of.org/)",
