@@ -6,7 +6,7 @@ http://estherbot.com
 
 ## Build Your Bot
 
-Creating this version will give you a web based chat app. With a few integrations inside of Smooch (like Twilio) you can have your bot talking on other platforms too including SMS, Facebook, and Telegram.  
+Creating this version will give you a web based chat app. With a few integrations inside of Smooch you can have your bot talking on other platforms too including SMS, Facebook, and Telegram.  
 
 ![heroku](/img/heroku.gif)
 
