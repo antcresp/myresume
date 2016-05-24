@@ -9,10 +9,10 @@
     "CONTACTS": "You can contact Andy via LinkedIn profile %[LinkedIn](https://linkedin.com/in/ankonstantinov)\nYou also can contact Andy via email: andy@8of.org",
     "QLEAN COMPANY": "Current employer.\nRussian Startup of the Year 2015 (according to RBC).\nPosition: iOS Team Lead.\nAndy take part in every stage of app lifetime - from design to publishing app to the AppStore.\nApplications: %[Qlean](postback:qlean_app) %[Shelly](postback:shelly_app)",
     "GOODWORKAPPS": "Andy've worked in GoodWorkApps for a half of the year, took part in app development: %[Stoloto](postback:stoloto_app)\nthere was two more apps, still not part of the AppStore, so there isn't much I can tell about them yet...",
-    "QLEAN": "Uber-like service for ordering cleaners to clean up the house or office.\nOnly available in Russia. %[AppStore Link](https://itunes.apple.com/en/app/uborka-kvartir-ot-qlean-zakaz/id1011771034?mt=8)",
-    "SHELLY": "Uber-like service for ordering manicure specialist to the flat or office.\nOnly available in Russia. %[AppStore Link](https://itunes.apple.com/en/app/shelly-manikur-na-domu/id1067956157?mt=8)",
-    "STOLOTO": "Russia's largest lottery shop. %[AppStore Link](https://itunes.apple.com/en/app/loterei-stoloto-u-nas-vyigryvaut/id579961527?mt=8)",
-    "2CH BROWSER": "Andy's own project.\nClient for the most popular Russian anonymous image board service 2ch.\nUnfortunatelly, app has been deleted from the AppStore by Apple, because of new Apple requirments.\nCode is open source now, it's well-structured, you can view it here: %[GitHub](https://github.com/8ofproject/2ch-Browser-iOS)",
+    "QLEAN": "Uber-like service for ordering cleaners to clean up the house or office.\nOnly available in Russia. Written in Swift. %[AppStore Link](https://itunes.apple.com/en/app/uborka-kvartir-ot-qlean-zakaz/id1011771034?mt=8)",
+    "SHELLY": "Uber-like service for ordering manicure specialist to the flat or office.\nOnly available in Russia. Written in Swift. %[AppStore Link](https://itunes.apple.com/en/app/shelly-manikur-na-domu/id1067956157?mt=8)",
+    "STOLOTO": "Russia's largest lottery shop. Written in Objective C. %[AppStore Link](https://itunes.apple.com/en/app/loterei-stoloto-u-nas-vyigryvaut/id579961527?mt=8)",
+    "2CH BROWSER": "Andy's own project.\nClient for the most popular Russian anonymous image board service 2ch. Written in Objective C.\nCode is open sourced, it's well-structured, you can view it on GitHub. You also can view app on the AppStore. %[GitHub](https://github.com/8ofproject/2ch-Browser-iOS) %[AppStore Link](https://itunes.apple.com/app/2ch-browser/id929022093?mt=8)",
     "CONNECT ME": "",
     "DISCONNECT": "Bot is here again.\nSay HELLO."
 }
