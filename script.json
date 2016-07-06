@@ -7,7 +7,7 @@
     "TENDENCIAS": "Aplicaciones de mensajería son la preferencia de comunicación por el ser humano mas aún entre los millenials.\nLos bots sutituirán a las apps.\n Actualmente hay unos 10000 desarrolladores programando chatbots.\nLa mejora en Machine Learning es lo que ha impulsado que está tecnología vuelva a estar de moda en 2016.\n %[Vayamos a lo importante](postback:tangibles)",
     "VAYAMOS A LO IMPORTANTE": "En esta primera fase del proyecto se identifican estos tangibles: %[Entrevistas](postback:entrevistas) %[Mapa Mental](postback:mapamental)",
     "ENTREVISTAS": "Aún tenemos pendiente esta parte, aún tengo alguna duda de como enfocarlo",
-    "MAPA MENTAL": "te muestro el mapa mental a día de hoy\n![mapamental](https://raw.githubusercontent.com/antcresp/My-personal-bot/master/img/mapaMental.jpg) "
+    "MAPA MENTAL": "te muestro el mapa mental a día de hoy\n![mapamental](https://raw.githubusercontent.com/antcresp/My-personal-bot/master/img/mapaMental.jpg)",
     "CONNECT ME": "",
     "DISCONNECT": "Bot is here again.\nSay HELLO."
     
