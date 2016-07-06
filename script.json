@@ -12,7 +12,7 @@
     "MAPA DE STAKEHOLDER": "Estos son los stakeholder identificados: \n %[Circulo 0](postback:circulo0) %[Circulo 1](postback:circulo1) %[Circulo 2](postback:circulo2)",
     "CIRCULO 0": "OID, Areas de Negocio involucradas, Areas TI, Infraestructura, Arquitectura, Dirección, Marketing, Asesoría jurídica,Red Comercial, Movilidad, Call Center, Seguridad\n%[Circulo 1](postback:circulo1) %[Circulo 2](postback:circulo2)",
     "CIRCULO 1": "Proveedores tecnológicos\nClientes  (uso de aplicaciones de mensajeria): early adopters en el uso de bots\n%[Circulo 0](postback:circulo0) %[Circulo 2](postback:circulo2)",
-    "CIRCULO 2": "Big Players: aplicaciones de mensajería \nStart-ups\nFabricantes de bots\nClientes potenciales (uso de aplicaciones de mensajeria):early adopters en el uso de bots\n%[Circulo 0](postback:circulo0) %[Circulo 2](postback:circulo2)%[Reto](postback:reto)",
+    "CIRCULO 2": "Big Players: aplicaciones de mensajería \nStart-ups\nFabricantes de bots\nClientes potenciales (uso de aplicaciones de mensajeria):early adopters en el uso de bots\n%[Circulo 0](postback:circulo0) %[Circulo 1](postback:circulo1)%[Reto](postback:reto)",
     "CONNECT ME": "",
     "DISCONNECT": "Bot is here again.\nSay HELLO."
     
