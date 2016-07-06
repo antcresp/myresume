@@ -14,11 +14,11 @@ module.exports = new Script({
     start: {
         receive: (bot) => {
             return bot.say('Quieres saber algo del proyecto personal de Antonio? Escribe HOLA para comenzar.')
-                .then(() => 'askName'); // speak
+                .then(() => 'speak'); // askname
         }
     },
 
-    askName: {
+ /*   askName: {
         prompt: (bot) => bot.say('What\'s your name?'),
         receive: (bot, message) => {
             const name = message.text;
@@ -27,7 +27,7 @@ module.exports = new Script({
 Is that OK? %[Yes](postback:yes) %[No](postback:no)`))
                 .then(() => 'finish');
         }
-    },
+    },*/
 
     speak: {
         receive: (bot, message) => {
