@@ -1,7 +1,6 @@
 {
 	"/START": "Hola!\n I am the personal bot of Andrey Konstantinov, iOS developer from Moscow.\n![andy](https://raw.githubusercontent.com/8ofproject/AndyResumeBot/master/img/andy.jpg)\nI prefer to call him Andy.\n You can call him Andy too. %[Tell me more about Andy](postback:about_andy)",
-  	"RETO": "Hola!\n soy el bot personal de Antonio, he sido creado para explicarte su proyecto personal de innovaciónnnn: ¿Como podríamos usar bots para mejorar negocio Salud?.\n ![chatbot](https://raw.githubusercontent.com/antcresp/My-personal-bot/master/img/chatbots.jpg)",
-	"HELLO": "Hello!\n I am the personal bot of Andrey Konstantinov, iOS developer from Moscow.\n![andy](https://raw.githubusercontent.com/8ofproject/AndyResumeBot/master/img/andy.jpg)\nI prefer to call him Andy.\n You can call him Andy too. %[Tell me more about Andy](postback:about_andy)",
+  	"HELLO": "Hello!\n I am the personal bot of Andrey Konstantinov, iOS developer from Moscow.\n![andy](https://raw.githubusercontent.com/8ofproject/AndyResumeBot/master/img/andy.jpg)\nI prefer to call him Andy.\n You can call him Andy too. %[Tell me more about Andy](postback:about_andy)",
     "BOT": "Hello!\n I am the personal bot of Andrey Konstantinov, iOS developer from Moscow.\n![andy](https://raw.githubusercontent.com/8ofproject/AndyResumeBot/master/img/andy.jpg)\nI prefer to call him Andy.\n You can call him Andy too. %[Tell me more about Andy](postback:about_andy)",
     "TELL ME MORE ABOUT ANDY": "Andy can code on both available iOS-friendly languages: Swift and Objective C.\nHe also have enough experience in using standard frameworks: UIKit, Core-based frameworks (vanilla CoreData included), Foundation, AutoLayout, Storyboards, XIBs, MapKit, NotificationCenter and many 3rd party frameworks. %[Latest works](postback:apps) %[Experience](postback:experience) %[Education](postback:education)",
     "LATEST WORKS" : "Latest iOS applications, where Andy took a part in: %[Qlean](postback:qlean_app) %[Shelly](postback:shelly_app) %[Stoloto](postback:stoloto_app) %[2ch browser](postback:dvach_browser) %[Other projects](http://8of.org/)",
@@ -14,6 +13,9 @@
     "SHELLY": "Uber-like service for ordering manicure specialist to the flat or office.\nOnly available in Russia. Written in Swift. %[AppStore Link](https://itunes.apple.com/en/app/shelly-manikur-na-domu/id1067956157?mt=8)",
     "STOLOTO": "Russia's largest lottery shop. Written in Objective C. %[AppStore Link](https://itunes.apple.com/en/app/loterei-stoloto-u-nas-vyigryvaut/id579961527?mt=8)",
     "2CH BROWSER": "Andy's own project.\nClient for the most popular Russian anonymous image board service 2ch. Written in Objective C.\nCode is open sourced, it's well-structured, you can view it on GitHub. You also can view app on the AppStore. %[GitHub](https://github.com/8ofproject/2ch-Browser-iOS) %[AppStore Link](https://itunes.apple.com/app/2ch-browser/id929022093?mt=8)",
+    "RETO": "Hola!\n soy el bot personal de Antonio, he sido creado para explicarte su proyecto personal de innovaciónnnn: ¿Como podríamos usar bots para mejorar negocio Salud?.\n ![chatbot](https://raw.githubusercontent.com/antcresp/My-personal-bot/master/img/chatbots.jpg) \n %[Investigacion online](postback:investigacion)",
+    "INVESTIGACION ONLINE": "la investigación online nos ha servido para recopilar info del reto y conocer que tipos de bots existen actualmente \n",
     "CONNECT ME": "",
     "DISCONNECT": "Bot is here again.\nSay HELLO."
+    
 }
