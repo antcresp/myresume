@@ -13,8 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            const name= 'Juan';
-            return bot.say('Encantado de hablar contigo ${name} Escribe RETO para comenzar')
+            return bot.say('Encantado de hablar contigo. Escribe HOLA para comenzar')
                 .then(() => 'speak'); // askname
         }
     },
@@ -31,6 +30,7 @@ module.exports = new Script({
     },*/
 
     speak: {
+        const name= 'Juan';
         receive: (bot, message) => {
 
             let upperText = message.text.trim().toUpperCase();
