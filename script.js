@@ -22,10 +22,10 @@ module.exports = new Script({
       //  bot.say('¿Cual es tu nombre?'),
     //    receive: (bot, message) => {
     //        const name = message.text;
-            const name= 'Juan';
-            return bot.setProp('name', name)
-                .then(() => bot.say('Encantado de hablar contigo ${name} Escribe RETO para comenzar '))
-                .then(() => 'speak');
+    //        const name= 'Juan';
+      //      return bot.setProp('name', name)
+        //        .then(() => bot.say('Encantado de hablar contigo ${name} Escribe RETO para comenzar '))
+          return  .then(() => 'speak');
         }
     },
 
