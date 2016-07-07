@@ -42,6 +42,8 @@ module.exports = new Script({
                         return bot.setProp("silent", true);
                     case "DISCONNECT":
                         return bot.setProp("silent", false);
+                    case "NOMBRE":
+                        bot.say('¿Cual es tu nombre?');
                     default:
                         return Promise.resolve();
                 }
