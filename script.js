@@ -4,7 +4,6 @@ const _ = require('lodash');
 const Script = require('smooch-bot').Script;
 
 const scriptRules = require('./script.json');
-const name= 'Juan';
 
 module.exports = new Script({
     processing: {
@@ -19,14 +18,14 @@ module.exports = new Script({
         }
     },
 
- /*  askName: {
-      //  bot.say('¿Cual es tu nombre?'),
+   askName: {
+        bot.say('¿Cual es tu nombre?');
     //    receive: (bot, message) => {
     //        const name = message.text;
     //        const name= 'Juan';
       //      return bot.setProp('name', name)
         //        .then(() => bot.say('Encantado de hablar contigo ${name} Escribe RETO para comenzar '))
-           .then(() => 'speak');
+      //     .then(() => 'speak');
         }
     },*/
 
@@ -42,8 +41,8 @@ module.exports = new Script({
                         return bot.setProp("silent", true);
                     case "DISCONNECT":
                         return bot.setProp("silent", false);
-                    case "NOMBRE":
-                        bot.say('¿Cual es tu nombre?');
+                    case "HOLA":
+                       then(() => 'askName');
                     default:
                         return Promise.resolve();
                 }
