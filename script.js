@@ -57,7 +57,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Lo siento, no te entiendo, Antonio solo me ha configurado para explicarte su proyecto personal. \n Escribe HOLA para comenzar!`).then(() => 'speak');
+                    return bot.say(`Lo siento, no te entiendo ${name}, Antonio solo me ha configurado para explicarte su proyecto personal. \n Escribe HOLA para comenzar!`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
