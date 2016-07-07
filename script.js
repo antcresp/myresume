@@ -18,7 +18,7 @@ module.exports = new Script({
         }
     },
 
-   askName: {
+/*   askName: {
         bot.say('¿Cual es tu nombre?');
     //    receive: (bot, message) => {
     //        const name = message.text;
