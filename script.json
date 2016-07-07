@@ -1,6 +1,6 @@
 {
    
-    "HOLA":"Hola! {name}\n soy el bot personal de Antonio, he sido creado para explicarte su proyecto personal de innovación: ¿Como podríamos usar bots para mejorar negocio Salud?.\n%[Investigacion online](postback:investigacion)",
+    "HOLA":"Hola! ${name}\n soy el bot personal de Antonio, he sido creado para explicarte su proyecto personal de innovación: ¿Como podríamos usar bots para mejorar negocio Salud?.\n%[Investigacion online](postback:investigacion)",
     "RETO": "¿Como podríamos usar bots para mejorar negocio Salud?.\n%[Investigacion online](postback:investigacion) %[Vayamos a lo importante](postback:tangibles)",
     "INVESTIGACION ONLINE": "la investigación online nos ha servido para recopilar info del reto y conocer que tipos de bots existen actualmente\n que empresas/plataformas existen\ncuales son las tendencias actuales\n%[Tipos de bots](postback:tipos) %[Plataformas](postback:plataformas) %[Tendencias](postback:tendencias)",
     "TIPOS DE BOTS": "1-Bots Inteligentes: todavía son algo utópicos\n2. Bots Humanos: ejemplo Magic USA, asistentes a través de whatassp.\n 3. Bots de interfaz: los interesantes. Estos bots no chatean, ni lo pretenden, simplemente transforman una GUI (graphic user interface) clásica, en una CUI (conversational user interface).\n 4. Bots Híbridos\n%[Reto](postback:reto)",
