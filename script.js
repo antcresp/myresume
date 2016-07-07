@@ -41,8 +41,10 @@ module.exports = new Script({
                         return bot.setProp("silent", true);
                     case "DISCONNECT":
                         return bot.setProp("silent", false);
-                    case "HOLA":
-                       then(() => 'askName');
+                    case "NOMBRE":
+                        const name = message.text;
+                        return bot.setProp('name', name)
+                                .then(() => bot.say(`Encantado de hablar contigo ${name} Escribe RETO para comenzar`))
                     default:
                         return Promise.resolve();
                 }
