@@ -41,10 +41,6 @@ module.exports = new Script({
                         return bot.setProp("silent", true);
                     case "DISCONNECT":
                         return bot.setProp("silent", false);
-                    case "NOMBRE":
-                        const name = message.text;
-                        return bot.setProp('name', name)
-                                .then(() => bot.say(`Encantado de hablar contigo ${name} Escribe RETO para comenzar`))
                     default:
                         return Promise.resolve();
                 }
@@ -60,7 +56,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Lo siento, no te entiendo ${name}, Antonio solo me ha configurado para explicarte su proyecto personal. \n Escribe HOLA para comenzar!`).then(() => 'speak');
+                    return bot.say(`Lo siento, no te entiendo, Antonio solo me ha configurado para explicarte su proyecto personal. \n Escribe HOLA para comenzar!`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
