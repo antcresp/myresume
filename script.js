@@ -14,18 +14,18 @@ module.exports = new Script({
     start: {
         receive: (bot) => {
             return bot.say('Hola!\n soy el bot personal de ancrespppppp, he sido creado para explicarte su proyecto personal de innovación')
-                .then(() => 'speak'); // askname
+                .then(() => 'askName'); // askname
         }
     },
 
-/*   askName: {
+   askName: {
       //  bot.say('¿Cual es tu nombre?'),
     //    receive: (bot, message) => {
     //        const name = message.text;
     //        const name= 'Juan';
       //      return bot.setProp('name', name)
         //        .then(() => bot.say('Encantado de hablar contigo ${name} Escribe RETO para comenzar '))
-          return  .then(() => 'speak');
+           .then(() => 'speak');
         }
     },*/
 
