@@ -4,6 +4,7 @@ const _ = require('lodash');
 const Script = require('smooch-bot').Script;
 
 const scriptRules = require('./script.json');
+const name= 'Juan';
 
 module.exports = new Script({
     processing: {
@@ -30,7 +31,7 @@ module.exports = new Script({
     },*/
 
     speak: {
-        const name= 'Juan';
+        
         receive: (bot, message) => {
 
             let upperText = message.text.trim().toUpperCase();
