@@ -13,12 +13,13 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hola!\n soy el bot personal de ancrespppppp, he sido creado para explicarte su proyecto personal de innovación')
-                .then(() => 'askName'); // askname
+            const name= 'Juan';
+            return bot.say('Encantado de hablar contigo ${name} Escribe RETO para comenzar')
+                .then(() => 'speak'); // askname
         }
     },
 
-   askName: {
+ /*  askName: {
       //  bot.say('¿Cual es tu nombre?'),
     //    receive: (bot, message) => {
     //        const name = message.text;
