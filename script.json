@@ -2,7 +2,7 @@
    
     "HOLA":"Hola! \n soy el bot personal de Antonio, gestor TI en aseguradora global de confianza.\n Aqui meter foto\n%[Ver CV](postback:vercv)",
     "VER CV": "Te puedo contar un montón de cosas acerca de Antonio. Elige lo que estés mas interesad@ en conocer\n%[Actitudes](postback:actitudes) %[Carrera Profesional](postback:carrera) %[Formacion](postback:formacion) %[Hobbies](postback:hobbies)",
-    "ACTITUDES": " aqui pondremos todo lo relacionado a actitud innovadora, ilusión, compromiso, actitud de mejora continua, perfeccionaismo y busqueda de la eficiencia\n",
+    "ACTITUDES": " aqui pondremos todo lo relacionado a actitud innovadora, ilusión, compromiso, actitud de mejora continua, perfeccionaismo y busqueda de la eficiencia\nCapacidad de organización y de gestión tanto en entornos amigables como entornos bajo presión gracias al bagaje tanto de los puestos profesionales desempeñados como en colectivos deportivos de competición en los que he pertenecido\n",
     "CARRERA PROFESIONAL": "Actualmente soy gestor de servicios TI en aseguradora global\n %[Como he llegado hasta aqui](postback:como)%[Proyecto actual](postback:proyectoactual)",
     "FORMACION": "apartado dedicado a las titualciones, otros cursos, ingles ....",
     "HOBBIES": "futbol sala, bots, hija, viajar...desarrollarlo",
