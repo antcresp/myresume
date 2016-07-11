@@ -3,9 +3,16 @@
     "HOLA":"Hola! \n soy el bot personal de Antonio, gestor TI en aseguradora global de confianza.\n Aqui meter foto\n%[Ver CV](postback:vercv)",
     "VER CV": "Te puedo contar un montón de cosas acerca de Antonio. Elige lo que estés mas interesad@ en conocer\n%[Actitudes](postback:actitudes) %[Carrera Profesional](postback:carrera) %[Formacion](postback:formacion) %[Hobbies](postback:hobbies)",
     "ACTITUDES": " aqui pondremos todo lo relacionado a actitud innovadora, ilusión, compromiso, actitud de mejora continua, perfeccionaismo y busqueda de la eficiencia\n",
-    "CARRERA PROFESIONAL": "actualmente, como he llegado hasta aqui, proyecto actual",
+    "CARRERA PROFESIONAL": "Actualmente soy gestor de servicios TI en aseguradora global\n %[Como he llegado hasta aqui](postback:como)%[Proyecto actual](postback:proyectoactual)",
     "FORMACION": "apartado dedicado a las titualciones, otros cursos, ingles ....",
     "HOBBIES": "futbol sala, bots, hija, viajar...desarrollarlo",
+    "COMO HE LLEGADO HASTA AQUI":"Durante los últimos 9 años he desarrollado diferentes funciones dentro del área de TI pasando de Analista programador en los comienzos a Analista Responsable de aplicación (tecnología J2EE, SOA ) , Gestor de proyectos, Jefe de proyecto y Gestor de servicio de proyectos\n%[Herramientas](postback: herramientas)",
+    "PROYECTO ACTUAL":"En el último año y medio estoy realizando funciones de analisis y testing dentro de proyecto internacional de lanzamiento de nueva plataforma de ramo vertical de la compañia\n",
+    "HERRAMIENTAS" : "Para no liarte te subdivido las herramientas mas significativas con los que he trabajado en función del puesto desarrollado: %[Gestion](postback: hgestion)%[Analisis](postback: hanalisis)%[Testing](postback: htesting) %[Desarrollo](postback: hdesarrollo)",
+    "GESTION": "Microsoft Project, Artemis, Clarity, herramientas corporativas para la gestión de portfolio de proyectos, herramientas corporativas para gestion mantenimientos acordes a estandares CMMi, tableros Lean, uso metodologías agiles",
+    "ANALISIS": "Polarion",
+    "TESTING": "Quality Center, Soap Ui para pruebas de servicios",
+    "DESARROLLO": "Javero en mis inicios,  diferentes servidores de aplicaciones JBoss, Websphere, varios años desarrollando bajo WSAD sobre arquitecturas J2EE orientadas a servicio.",
     "CONNECT ME": "",
     "DISCONNECT": "Bot está conectado de nuevo.\n Di HOLA."
     
