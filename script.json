@@ -3,9 +3,9 @@
     "HOLA":"Hola! \n soy el bot personal de Antonio, gestor TI en aseguradora global de confianza.\n Aqui meter foto\n%[Ver CV](postback:vercv)",
     "VER CV": "Te puedo contar un montón de cosas acerca de Antonio. Elige lo que estés mas interesad@ en conocer\n%[Actitudes](postback:actitudes) %[Carrera Profesional](postback:carrera) %[Formacion](postback:formacion) %[Hobbies](postback:hobbies)",
     "ACTITUDES": " aqui pondremos todo lo relacionado a actitud innovadora, ilusión, compromiso, actitud de mejora continua, perfeccionaismo y busqueda de la eficiencia\n",
-    "CARRERA PROFESIONAL": "actuamnete, como he llegado hasta aqui, proyecto actual"
+    "CARRERA PROFESIONAL": "actuamnete, como he llegado hasta aqui, proyecto actual",
     "FORMACION": "apartado dedicado a las titualciones, otros cursos, ingles ....",
-    "HOBBIES": "futbol sala, bots, hija, viajar...desarrollarlo"
+    "HOBBIES": "futbol sala, bots, hija, viajar...desarrollarlo",
     "CONNECT ME": "",
     "DISCONNECT": "Bot está conectado de nuevo.\n Di HOLA."
     
